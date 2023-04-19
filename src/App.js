@@ -10,6 +10,7 @@ function App() {
         <p>
           v{version}
         </p>
+        <p>pre-merge-commit</p>
         
       </header>
     </div>
